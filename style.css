@@ -1,0 +1,93 @@
+
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin: 0;
+  padding: 0px;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+header {
+  background-color: #060d30;
+  color: #fff;
+}
+
+.MS {
+  width: 1160px;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 50px;
+}
+
+.nav-links {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px 0 0.5px;
+}
+
+.nav-links li {
+  display: inline;
+  margin-right: 10px;
+}
+
+.nav-links a {
+  color: #fff;
+  text-decoration: none;
+}
+
+h1, p {
+  font-size: 25px;
+  padding: 5px;
+}
+
+.logo {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 30px;
+padding: 0 0 50px
+}
+
+section {
+  padding: 40px 0;
+  text-align: center;
+}
+
+.service {
+  display: inline-block;
+  width: 300px;
+  margin: 20px;
+  border: 5px solid #060d30;
+  border-radius: 10px;
+}
+
+.img-marcas {
+  width: 200px;
+  padding: 30px;
+  
+  
+}
+
+.img-service {
+  width: 200px;
+  padding: 30px;
+}
+
+h3{
+  padding: 10px;
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.contato {
+  padding: 0 10px;
+}
+
+footer {
+  background-color: #060d30;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+}
